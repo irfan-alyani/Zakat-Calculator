@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Zakat Calculator",
+  "description": "An interactive, highly polished Zakat calculator for gold, silver, cash, and other assets with automatic real-time currency conversion and live market rate tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
