@@ -1,4 +1,5 @@
 # 🕌 Zakat Calculator
+https://remix-zakat-calculator-956960935381.us-west1.run.app
 
 A modern, fast, and user-friendly **Zakat Calculator** built to help Muslims accurately calculate their annual Zakat according to Islamic principles. The application provides a clean interface for entering assets, liabilities, and wealth details to determine the amount of Zakat due (2.5%).
 
