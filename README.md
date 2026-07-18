@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🕌 Zakat Calculator
 
-# Run and deploy your AI Studio app
+A modern, fast, and user-friendly **Zakat Calculator** built to help Muslims accurately calculate their annual Zakat according to Islamic principles. The application provides a clean interface for entering assets, liabilities, and wealth details to determine the amount of Zakat due (2.5%).
 
-This contains everything you need to run your app locally.
+## ✨ Features
 
-View your app in AI Studio: https://ai.studio/apps/3a5e7243-622b-4fbe-973b-85e7a61b511d
+* 🧮 Simple and accurate Zakat calculation
+* 💰 Calculate Zakat on cash, savings, gold, silver, and other assets
+* 📉 Deduct liabilities before calculating Zakat
+* ⚡ Fast and responsive user interface
+* 📱 Mobile-friendly and fully responsive design
+* 🌙 Clean, modern Islamic-inspired UI
+* 🔒 Privacy-focused – calculations remain on the user's device
+* 🌍 Easy to use for Muslims worldwide
 
-## Run Locally
+## 🚀 Technologies Used
 
-**Prerequisites:**  Node.js
+* React
+* Remix
+* TypeScript
+* Tailwind CSS
+* Modern JavaScript (ES6+)
 
+## 📖 How It Works
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Enter your cash, savings, gold, silver, investments, and other Zakatable assets.
+2. Add any eligible liabilities or debts.
+3. The calculator automatically computes your total wealth.
+4. If your wealth exceeds the Nisab threshold, the app calculates **2.5% Zakat** instantly.
+
+## 🎯 Purpose
+
+This project aims to simplify the process of calculating Zakat with an intuitive and accessible web application, helping Muslims fulfill one of the Five Pillars of Islam accurately and conveniently.
+
+## ⭐ Future Improvements
+
+* Live Gold & Silver Nisab prices
+* Multi-currency support
+* Multiple language support (English, Urdu, Arabic)
+* Save calculation history
+* PDF report export
+* Dark Mode
+* Offline support (PWA)
+
+## 📄 License
+
+This project is intended for educational and personal use. Contributions, suggestions, and improvements are welcome.
